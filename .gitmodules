@@ -1,0 +1,6 @@
+[submodule "MiServicio"]
+	path = MiServicio
+	url = https://github.com/albertodcm/MiServicio
+[submodule "MiServicioEmpresas"]
+	path = MiServicioEmpresas
+	url = https://github.com/albertodcm/MiServicioEmpresas
