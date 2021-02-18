@@ -1,0 +1,10 @@
+ El volumen de la unidad C es Acer
+ El n£mero de serie del volumen es: 7716-94EB
+
+ Directorio de C:\MiServicio
+
+17/02/2021  18:28    <DIR>          .
+17/02/2021  18:28    <DIR>          ..
+17/02/2021  18:28                 0 deleteme.txt
+               1 archivos              0 bytes
+               2 dirs  96.891.965.440 bytes libres
